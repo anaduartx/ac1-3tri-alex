@@ -1,5 +1,5 @@
 # landing page - closet match
-Allan von Ivanov
+- Allan von Ivanov
 Ana Carolina Duarte
 Diego Mecco
 Gabriela Tavares
